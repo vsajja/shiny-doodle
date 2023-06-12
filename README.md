@@ -1,3 +1,3 @@
 # shiny-doodle
 
-Demo: [https://rotowhale.netlify.app](https://shiny-doodle.netlify.app)
+Demo: [https://shiny-doodle.netlify.app](https://shiny-doodle.netlify.app)
